@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 
 # Start a webdriver instance and open ChatGPT
 driver = webdriver.Chrome()
-driver.get('https://chatgpt.openai.com/')
+driver.get('https://chat.openai.com/')
 
 # Find the input field and send a question
 input_field = driver.find_element_by_class_name('c-text-input')
