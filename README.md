@@ -55,4 +55,6 @@ By joining our group, you will gain access to advanced features, including Googl
 
 Click [here](https://discord.gg/6FJBKKWH#) to join our group.
 
+🏅 🏅 🏅Please send me a DM on Discord for Premium download link with Output file access. 
+
 The application is in active development. Contributions, suggestions, and issue reports are welcome and appreciated. 🙌
