@@ -64,12 +64,4 @@ For a more detailed walkthrough, please refer to the full [demo here](https://ch
 | `Model Selection` | Option to choose between GPT-4 (default) and GPT-3.5 Turbo |
 | `Start Bot button` | Button to start the bot and initiate interaction with ChatGPT |
 
-## 🌐 Join Our Group
-
-By joining our group, you will gain access to advanced features, including Google Sheets integration and enhanced CSV output options. This lets you streamline your work by directly sending the output to a Google Sheet and saving the CSV output.
-
-Click [here](https://discord.gg/6FJBKKWH#) to join our group.
-
-🏅 🏅 🏅Please send me a DM on Discord for Premium download link with Output file access. 
-
 The application is in active development. Contributions, suggestions, and issue reports are welcome and appreciated. 🙌
