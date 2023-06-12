@@ -48,11 +48,10 @@ For your convenience, we provide direct download links for both Windows and Mac 
 ## 🎥 Demo
 
 Please check out the brief demo below for a quick overview of the application:
+<div align="center">
 
-![Demo](demo.gif)
-
-For a more detailed walkthrough, please refer to the full [demo here](https://chat.openai.com/?model=gpt-4#).
-
+![Demo]([demo.gif](https://github.com/querybila/Automating-ChatGPT-with-Python-and-Selenium/blob/main/ezgif.com-video-to-gif.gif))
+</div>
 ## 🛠 Usage Table
 
 | Field Name | Function |
