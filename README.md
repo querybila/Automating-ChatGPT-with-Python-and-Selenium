@@ -49,7 +49,7 @@ For your convenience, we provide direct download links for both Windows and Mac 
 
 Please check out the brief demo below for a quick overview of the application:
 
-![Demo]([demo.gif](https://github.com/querybila/Automating-ChatGPT-with-Python-and-Selenium/blob/main/ezgif.com-video-to-gif.gif))
+![Demo]([demo.gif](https://github.com/querybila/Automating-ChatGPT-with-Python-and-Selenium/blob/main/ezgif.com-video-to-gif.gif)
 
 
 ## 🛠 Usage Table
