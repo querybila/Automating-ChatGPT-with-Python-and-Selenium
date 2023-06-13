@@ -26,7 +26,7 @@ For your convenience, we provide direct download links for both Windows and Mac 
 - [🪟 Windows Download](https://chat.openai.com/?model=gpt-4#)
 - [🍏 Mac Download](https://chat.openai.com/?model=gpt-4#)
 
-## 🎉 Features
+## :tada:  Free Features
 
 - **Beautiful GUI:** The Bot provides a user-friendly interface that makes it easier for users to interact with ChatGPT.
     
@@ -38,11 +38,18 @@ For your convenience, we provide direct download links for both Windows and Mac 
     
 - **Interaction with ChatGPT GUI:** The Bot lets you submit your input and retrieve the response from the ChatGPT GUI.
     
-- **CSV Input & Output:** The Bot accepts CSV files as input, and saves the responses from ChatGPT into a CSV file.
+- **CSV Input & Output:** The Bot accepts CSV files as input, and saves the responses from ChatGPT into a CSV file (Premium Features)
     
 - **Choice between GPT-4 and GPT-3.5 Turbo:** Users have the flexibility to choose between GPT-4 and GPT-3.5 Turbo as their underlying model. The default selection is GPT-3.5.
     
 - **New Chat:** You can initiate a new chat session at any time.
+
+:medal: To Dos
+-  Chrome Extenstion
+- Output to CSV
+- Google Sheets integration
+- Plugins Supports
+- intelligent Bot.
     
 
 ## 🎥 Demo
