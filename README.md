@@ -44,7 +44,7 @@ For your convenience, we provide direct download links for both Windows and Mac 
     
 - **New Chat:** You can initiate a new chat session at any time.
 
-:medal: To Dos
+## 🛠 To Dos
 -  Chrome Extenstion
 - Output to CSV
 - Google Sheets integration
