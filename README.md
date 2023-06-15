@@ -23,8 +23,8 @@ This project presents an innovative open-source desktop application Bot built us
 
 For your convenience, we provide direct download links for both Windows and Mac versions of the application:
 
-- [🪟 Windows Download](https://chat.openai.com/?model=gpt-4#)
-- [🍏 Mac Download](https://chat.openai.com/?model=gpt-4#)
+- [🪟 Windows Download](https://drive.google.com/drive/folders/1CBOKUSTQ6_e5LEOrDip4qrEDwOSVNqW2?usp=sharing)
+- [🍏 Mac Download - Coming Soon]()
 
 ## :tada:  Free Features
 
