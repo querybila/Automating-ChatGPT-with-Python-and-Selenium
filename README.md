@@ -3,7 +3,7 @@
 <h1 align="center">Automating ChatGPT: A Python & Selenium-based Desktop Application Bot </h1>
 <div align="center">
 
-<a href="https://discord.gg/6FJBKKWH" style="margin-top: 12px;">
+<a href="https://discord.gg/r6tFz8Nmkh" style="margin-top: 12px;">
   <img align="center" alt="Discord link" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   <code>Join our Discord Server</code>
 </a>
